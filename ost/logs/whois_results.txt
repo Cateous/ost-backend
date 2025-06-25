@@ -1,0 +1,241 @@
+
+--- 2025-06-25 08:55:40.929254 ---
+
+[+] WHOIS info for google.com
+{
+  "domain_name": "GOOGLE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-09 15:39:04",
+    "2024-08-02 02:17:33+00:00"
+  ],
+  "creation_date": [
+    "1997-09-15 04:00:00",
+    "1997-09-15 07:00:00+00:00"
+  ],
+  "expiration_date": [
+    "2028-09-14 04:00:00",
+    "2028-09-13 07:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "registrant_postal_code": null,
+  "country": "US"
+}
+
+[+] Resolving IP for google.com
+Resolved IP: 142.250.70.78
+
+
+--- 2025-06-25 11:23:33.953530 ---
+[+] WHOIS info for vtop.vitbhopal.ac.in
+{
+  "domain_name": "vitbhopal.ac.in",
+  "registrar": "ERNET India",
+  "registrar_url": "http://www.ernet.in",
+  "registrar_iana": "800068",
+  "updated_date": "2017-08-18 04:53:00.925000",
+  "creation_date": "2016-04-01 06:19:57.482000",
+  "expiration_date": "2027-04-01 06:19:57.482000",
+  "name_servers": [
+    "ns-1126.awsdns-12.org",
+    "ns-65.awsdns-08.com",
+    "ns-1911.awsdns-46.co.uk",
+    "ns-797.awsdns-35.net"
+  ],
+  "organization": "VIT University",
+  "state": null,
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "tejalt@eis.ernet.in",
+  "country": "IN",
+  "dnssec": "unsigned"
+}
+
+[+] Resolving IP for vtop.vitbhopal.ac.in
+Resolved IP: 14.99.16.249
+
+--- 2025-06-25 20:09:13.482685 ---
+[+] WHOIS info for www.google.com
+{
+  "domain_name": "GOOGLE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-09 15:39:04",
+    "2024-08-02 02:17:33+00:00"
+  ],
+  "creation_date": [
+    "1997-09-15 04:00:00",
+    "1997-09-15 07:00:00+00:00"
+  ],
+  "expiration_date": [
+    "2028-09-14 04:00:00",
+    "2028-09-13 07:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "registrant_postal_code": null,
+  "country": "US"
+}
+
+[+] Resolving IP for www.google.com
+Resolved IP: 142.250.207.164
+
+--- 2025-06-25 21:33:20.123856 ---
+[+] WHOIS info for www.google.com
+{
+  "domain_name": "GOOGLE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-09 15:39:04",
+    "2024-08-02 02:17:33+00:00"
+  ],
+  "creation_date": [
+    "1997-09-15 04:00:00",
+    "1997-09-15 07:00:00+00:00"
+  ],
+  "expiration_date": [
+    "2028-09-14 04:00:00",
+    "2028-09-13 07:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": "CA",
+  "registrant_postal_code": null,
+  "country": "US"
+}
+
+[+] Resolving IP for www.google.com
+Resolved IP: 142.251.42.68
+
+--- 2025-06-25 21:54:15.182100 ---
+[+] WHOIS info for www.mega.com
+{
+  "domain_name": "MEGA.COM",
+  "registrar": "Network Solutions, LLC",
+  "registrar_url": "http://networksolutions.com",
+  "reseller": null,
+  "whois_server": "whois.networksolutions.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-03-29 15:38:17",
+    "2019-03-29 15:38:58"
+  ],
+  "creation_date": "1996-11-17 05:00:00",
+  "expiration_date": "2028-11-16 05:00:00",
+  "name_servers": [
+    "NS0.LON.AUTH.COLT.NET",
+    "NS1.FRA.AUTH.COLT.NET"
+  ],
+  "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+  "emails": [
+    "domain.operations@web.com",
+    "ms7tr9cb39f@networksolutionsprivateregistration.com",
+    "rx38u97r225@networksolutionsprivateregistration.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "PERFECT PRIVACY, LLC",
+  "org": null,
+  "address": "5335 Gate Parkway care of Network Solutions PO Box 459",
+  "city": "Jacksonville",
+  "state": "FL",
+  "registrant_postal_code": "32256",
+  "country": "US"
+}
+
+[+] Resolving IP for www.mega.com
+Resolved IP: 151.101.153.193

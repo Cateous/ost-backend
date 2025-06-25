@@ -1,0 +1,58 @@
+
+--- 2025-06-25 11:34:42.864004 ---
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-06-25 11:34 +0530
+Nmap scan report for 192.168.217.250
+Host is up (0.000032s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+7070/tcp open  ssl/realserver?
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.92 seconds
+
+--- 2025-06-25 11:39:34.538632 ---
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-06-25 11:39 +0530
+Nmap scan report for 192.168.217.250
+Host is up (0.000098s latency).
+Not shown: 96 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+7070/tcp open  realserver
+
+Nmap done: 1 IP address (1 host up) scanned in 0.77 seconds
+
+--- 2025-06-25 11:40:36.661224 ---
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-06-25 11:40 +0530
+Nmap scan report for 192.168.217.250
+Host is up (0.000098s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+7070/tcp open  ssl/realserver?
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.11 seconds
+
+--- 2025-06-25 11:41:38.215448 ---
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-06-25 11:41 +0530
+Nmap scan report for 192.168.217.250
+Host is up (0.00024s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE         VERSION
+135/tcp  open  msrpc           Microsoft Windows RPC
+139/tcp  open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+7070/tcp open  ssl/realserver?
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.08 seconds
