@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 import sys
 from pathlib import Path
+import os
 
 # Allow importing from project root
 sys.path.append(str(Path(__file__).resolve().parents[1]))
@@ -22,10 +23,11 @@ def home():
 def scan_route():
     data = request.get_json()
     target = data.get('target')
+    flags = data.get('flags', [])
     if not target:
         return jsonify({'error': 'Target not provided'}), 400
 
-    result = run_nmap(target)
+    result = run_nmap(target, flags)
     return jsonify({'nmap_result': result})
 
 # 2. Directory Brute Force
@@ -74,4 +76,5 @@ def whois_route():
     return jsonify({'whois_info': result})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
